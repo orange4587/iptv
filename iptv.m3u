@@ -241,14 +241,6 @@ rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch19103117122411101247.
 rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch19103117125626705928.rsc/87892_Uni.sdp
 #EXTINF:-1 tvg-id="ch00000000000000001375" tvg-name="蓬莱新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/烟台蓬莱.png" group-title="sd联通" catchup="default" catchup-days="7" catchup-source="rtsp://60.212.114.216:1554/iptv/Tvod/iptv/001/001/ch21092609425592224582.rsc?tvdr=${(b)yyyyMMddHHmmss:utc}GMT-${(e)yyyyMMddHHmmss:utc}GMT" resolution="1920x1080" quality-score="46.0" quality-grade="D",蓬莱新闻
 rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch21092609425592224582.rsc/92469_Uni.sdp
-#EXTINF:-1 tvg-name="QTV‑1" tvg-logo="https://upload.112114.xyz/logo/%E9%9D%92%E5%B2%9B1A.png" group-title="青岛卫视",QTV‑1
-http://a.ainm.cc/iptv/stream.php?id=6aa560c08b55c&pwd=70002222
-#EXTINF:-1 tvg-name="QTV‑2" tvg-logo="https://upload.112114.xyz/logo/%E9%9D%92%E5%B2%9B2A.png" group-title="青岛卫视",QTV‑2
-http://a.ainm.cc/iptv/stream.php?id=6aa560c08b56f&pwd=70002222
-#EXTINF:-1 tvg-name="QTV‑3" tvg-logo="https://upload.112114.xyz/logo/%E9%9D%92%E5%B2%9B3A.png" group-title="青岛卫视",QTV‑3
-http://a.ainm.cc/iptv/stream.php?id=6aa560c08b582&pwd=70002222
-#EXTINF:-1 tvg-name="QTV‑4" tvg-logo="https://upload.112114.xyz/logo/%E9%9D%92%E5%B2%9B4A.png" group-title="青岛卫视",QTV‑4
-http://a.ainm.cc/iptv/stream.php?id=6aa560c08b595&pwd=70002222
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://upload.112114.xyz/logo/HKS1.png" group-title="香港频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港国际" tvg-logo="https://upload.112114.xyz/logo/HKS1.png" group-title="香港频道",香港国际
