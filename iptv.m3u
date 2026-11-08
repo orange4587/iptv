@@ -218,16 +218,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RNA" group-title="韩国频道",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B21.png" group-title="体育频道",五星体育①
-http://a.ainm.cc/iptv/stream.php?id=6aa560cb46a4f&pwd=70002222
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B21.png" group-title="体育频道",五星体育②
-http://a.ainm.cc/iptv/stream.php?id=6aa560cb46a61&pwd=70002222
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B21.png" group-title="体育频道",五星体育③
-http://a.ainm.cc/iptv/stream.php?id=6aa560cb46a74&pwd=70002222
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B21.png" group-title="体育频道",五星体育④
-http://a.ainm.cc/iptv/stream.php?id=6aa560cb46a89&pwd=70002222
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B21.png" group-title="体育频道",五星体育⑤
-http://a.ainm.cc/iptv/stream.php?id=6aa560cb46a9f&pwd=70002222
 #EXTINF:-1 tvg-name="WWE专场" tvg-logo="https://epg.112114.xyz/logo/WWE专场.png" group-title="体育频道",WWE专场
 https://huyazhibo.de5.net/?id=30021023
 #EXTINF:-1 tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球专场.png" group-title="体育频道",篮球
