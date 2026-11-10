@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://gh-proxy.com/https://github.com/sggc/SD-EPG/raw/main/EPG/sggc.xml.gz" x-tvg-url="https://gh-proxy.com/https://github.com/sggc/SD-EPG/raw/main/EPG/sggc.xml.gz"
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://upload.112114.xyz/logo/HKS1.png" group-title="香港频道",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港国际" tvg-logo="https://upload.112114.xyz/logo/HKS1.png" group-title="香港频道",香港国际
 http://player4.juyun.tv/camera/158562106.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://upload.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B21.png" group-title="香港频道",TVBS亚洲
