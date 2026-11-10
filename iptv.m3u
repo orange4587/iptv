@@ -121,180 +121,174 @@ https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB1.png" group-title="台湾频道",中天新闻③
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC News" group-title="海外频道",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.112114.xyz/logo/ABC%20News.png" group-title="海外频道",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-#EXTINF:-1 tvg-name="CNA 亚洲" group-title="海外频道",CNA 亚洲
+#EXTINF:-1 tvg-name="CNA 亚洲" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%863%E5%8F%B01.png" group-title="海外频道",CNA 亚洲
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="日本NHK" group-title="海外频道",日本NHK
+#EXTINF:-1 tvg-name="日本NHK" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%864%E5%8F%B01.png" group-title="海外频道",日本NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-name="Wion News" group-title="海外频道",Wion News
+#EXTINF:-1 tvg-name="Wion News" tvg-logo="https://upload.112114.xyz/logo/%E9%A6%99%E8%95%89%E9%A2%91%E5%8F%B01.png" group-title="海外频道",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="ABN TV (720p)" group-title="韩国频道",ABN TV (720p)
+#EXTINF:-1 tvg-name="ABN TV (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%BD%98%E6%9C%B5%E6%8B%89%E5%8F%B01.png" group-title="韩国频道",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-name="ANTV" group-title="韩国频道",ANTV
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="韩国频道",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Arirang" group-title="韩国频道",Arirang
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%862%E5%8F%B01.png" group-title="韩国频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="Arirang Radio (720p)" group-title="韩国频道",Arirang Radio (720p)
+#EXTINF:-1 tvg-name="Arirang Radio (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%863%E5%8F%B01.png" group-title="韩国频道",Arirang Radio (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="BBS" group-title="韩国频道",BBS
+#EXTINF:-1 tvg-name="BBS" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%864%E5%8F%B01.png" group-title="韩国频道",BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 tvg-name="BBS Buddhist Broadcasting (1080p)" group-title="韩国频道",BBS Buddhist Broadcasting (1080p)
+#EXTINF:-1 tvg-name="BBS Buddhist Broadcasting (1080p)" tvg-logo="https://upload.112114.xyz/logo/%E9%A6%99%E8%95%89%E9%A2%91%E5%8F%B01.png" group-title="韩国频道",BBS Buddhist Broadcasting (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="BTN" group-title="韩国频道",BTN
+#EXTINF:-1 tvg-name="BTN" tvg-logo="https://upload.112114.xyz/logo/%E6%BD%98%E6%9C%B5%E6%8B%89%E5%8F%B01.png" group-title="韩国频道",BTN
 http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-#EXTINF:-1 tvg-name="CJB" group-title="韩国频道",CJB
+#EXTINF:-1 tvg-name="CJB" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="韩国频道",CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="韩国频道",CJ OnStyle (540p)
+#EXTINF:-1 tvg-name="CJ OnStyle (540p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%862%E5%8F%B01.png" group-title="韩国频道",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS+2" group-title="韩国频道",EBS+2
+#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%863%E5%8F%B01.png" group-title="韩国频道",EBS+2
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="EBS-KIDS" group-title="韩国频道",EBS-KIDS
+#EXTINF:-1 tvg-name="EBS-KIDS" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%864%E5%8F%B01.png" group-title="韩国频道",EBS-KIDS
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS1" group-title="韩国频道",EBS1①
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://upload.112114.xyz/logo/EBS1.png" group-title="韩国频道",EBS1①
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS1" group-title="韩国频道",EBS1②
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://upload.112114.xyz/logo/EBS1.png" group-title="韩国频道",EBS1②
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS1" group-title="韩国频道",EBS1③
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://upload.112114.xyz/logo/EBS1.png" group-title="韩国频道",EBS1③
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS1" group-title="韩国频道",EBS1④
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://upload.112114.xyz/logo/EBS1.png" group-title="韩国频道",EBS1④
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 tvg-name="EBS1" group-title="韩国频道",EBS1⑤
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://upload.112114.xyz/logo/EBS1.png" group-title="韩国频道",EBS1⑤
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 tvg-name="EBS2" group-title="韩国频道",EBS2①
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://upload.112114.xyz/logo/EBS.png" group-title="韩国频道",EBS2①
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS2" group-title="韩国频道",EBS2②
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://upload.112114.xyz/logo/EBS.png" group-title="韩国频道",EBS2②
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="EBS2" group-title="韩国频道",EBS2③
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://upload.112114.xyz/logo/EBS.png" group-title="韩国频道",EBS2③
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 tvg-name="EBSe" group-title="韩国频道",EBSe①
+#EXTINF:-1 tvg-name="EBSe" tvg-logo="https://upload.112114.xyz/logo/%E9%A6%99%E8%95%89%E9%A2%91%E5%8F%B01.png" group-title="韩国频道",EBSe①
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBSe" group-title="韩国频道",EBSe②
+#EXTINF:-1 tvg-name="EBSe" tvg-logo="https://upload.112114.xyz/logo/%E6%BD%98%E6%9C%B5%E6%8B%89%E5%8F%B01.png" group-title="韩国频道",EBSe②
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="EBSi" group-title="韩国频道",EBSi
+#EXTINF:-1 tvg-name="EBSi" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="韩国频道",EBSi
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="EBS少儿" group-title="韩国频道",EBS少儿
+#EXTINF:-1 tvg-name="EBS少儿" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%862%E5%8F%B01.png" group-title="韩国频道",EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 tvg-name="EWTN Africa Asia (720p)" group-title="韩国频道",EWTN Africa Asia (720p)
+#EXTINF:-1 tvg-name="EWTN Africa Asia (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%863%E5%8F%B01.png" group-title="韩国频道",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="EWTN Asia-Pacific (720p)" group-title="韩国频道",EWTN Asia-Pacific (720p)
+#EXTINF:-1 tvg-name="EWTN Asia-Pacific (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%864%E5%8F%B01.png" group-title="韩国频道",EWTN Asia-Pacific (720p)
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="GCN24 Korean (720p)" group-title="韩国频道",GCN24 Korean (720p)
+#EXTINF:-1 tvg-name="GCN24 Korean (720p)" tvg-logo="https://upload.112114.xyz/logo/%E9%A6%99%E8%95%89%E9%A2%91%E5%8F%B01.png" group-title="韩国频道",GCN24 Korean (720p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Gugbang TV (1080p)" group-title="韩国频道",Gugbang TV (1080p)
+#EXTINF:-1 tvg-name="Gugbang TV (1080p)" tvg-logo="https://upload.112114.xyz/logo/%E6%BD%98%E6%9C%B5%E6%8B%89%E5%8F%B01.png" group-title="韩国频道",Gugbang TV (1080p)
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Home & Shopping" group-title="韩国频道",Home & Shopping
-#EXTINF:-1 tvg-name="韩国音乐" group-title="韩国频道",韩国音乐
+#EXTINF:-1 tvg-name="Home & Shopping" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="韩国频道",Home & Shopping
+#EXTINF:-1 tvg-name="韩国音乐" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%862%E5%8F%B01.png" group-title="韩国频道",韩国音乐
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="KCTV" group-title="韩国频道",KCTV
+#EXTINF:-1 tvg-name="KCTV" tvg-logo="https://upload.112114.xyz/logo/KCTV.png" group-title="韩国频道",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 tvg-name="KCTV 광주 CH05 (720p)" group-title="韩国频道",KCTV 광주 CH05 (720p)
+#EXTINF:-1 tvg-name="KCTV 광주 CH05 (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%863%E5%8F%B01.png" group-title="韩国频道",KCTV 광주 CH05 (720p)
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-name="Lotte OneTV (720p)" group-title="韩国频道",Lotte OneTV (720p)
+#EXTINF:-1 tvg-name="Lotte OneTV (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%864%E5%8F%B01.png" group-title="韩国频道",Lotte OneTV (720p)
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) (480p)" group-title="韩国频道",MBC Chuncheon (춘천 MBC) (480p)
+#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) (480p)" tvg-logo="https://upload.112114.xyz/logo/%E9%A6%99%E8%95%89%E9%A2%91%E5%8F%B01.png" group-title="韩国频道",MBC Chuncheon (춘천 MBC) (480p)
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Mokpo (목포 MBC) (720p)" group-title="韩国频道",MBC Mokpo (목포 MBC) (720p)
+#EXTINF:-1 tvg-name="MBC Mokpo (목포 MBC) (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%BD%98%E6%9C%B5%E6%8B%89%E5%8F%B01.png" group-title="韩国频道",MBC Mokpo (목포 MBC) (720p)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NewKID2" group-title="韩国频道",NewKID2
+#EXTINF:-1 tvg-name="NewKID2" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="韩国频道",NewKID2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 tvg-name="NewKID4" group-title="韩国频道",NewKID4①
+#EXTINF:-1 tvg-name="NewKID4" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%862%E5%8F%B01.png" group-title="韩国频道",NewKID4①
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 tvg-name="NewKID4" group-title="韩国频道",NewKID4②
+#EXTINF:-1 tvg-name="NewKID4" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%863%E5%8F%B01.png" group-title="韩国频道",NewKID4②
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
-#EXTINF:-1 tvg-name="NHTV (720p)" group-title="韩国频道",NHTV (720p)
+#EXTINF:-1 tvg-name="NHTV (720p)" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%864%E5%8F%B01.png" group-title="韩国频道",NHTV (720p)
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-name="RNA" group-title="韩国频道",RNA
+#EXTINF:-1 tvg-name="RNA" tvg-logo="https://upload.112114.xyz/logo/%E9%A6%99%E8%95%89%E9%A2%91%E5%8F%B01.png" group-title="韩国频道",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-#EXTINF:-1 tvg-name="TV" group-title="韩国频道",TV
+#EXTINF:-1 tvg-name="TV" tvg-logo="https://upload.112114.xyz/logo/TV1.png" group-title="韩国频道",TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-name="TV1" group-title="韩国频道",TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://upload.112114.xyz/logo/TV1.png" group-title="韩国频道",TV1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-name="TV3" group-title="韩国频道",TV3
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.112114.xyz/logo/TV3.png" group-title="韩国频道",TV3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1 tvg-name="tvchosun2" group-title="韩国频道",tvchosun2
+#EXTINF:-1 tvg-name="tvchosun2" tvg-logo="https://upload.112114.xyz/logo/%E6%BD%98%E6%9C%B5%E6%8B%89%E5%8F%B01.png" group-title="韩国频道",tvchosun2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-name="tvN1" group-title="韩国频道",tvN1
+#EXTINF:-1 tvg-name="tvN1" tvg-logo="https://upload.112114.xyz/logo/tvN.png" group-title="韩国频道",tvN1
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 tvg-name="tvN5" group-title="韩国频道",tvN5
+#EXTINF:-1 tvg-name="tvN5" tvg-logo="https://upload.112114.xyz/logo/tvN.png" group-title="韩国频道",tvN5
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
-#EXTINF:-1 tvg-name="Big3" tvg-logo="https://epg.112114.xyz/logo/Big3专场.png" group-title="体育频道",Big3
+#EXTINF:-1 tvg-name="Big3" tvg-logo="https://epg.112114.xyz/logo/Big3%E4%B8%93%E5%9C%BA.png" group-title="体育频道",Big3
 https://huyazhibo.de5.net/?id=30847442
-#EXTINF:-1 tvg-name="棒球" tvg-logo="https://epg.112114.xyz/logo/棒球专场.png" group-title="体育频道",棒球
+#EXTINF:-1 tvg-name="棒球" tvg-logo="https://epg.112114.xyz/logo/%E6%A3%92%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="体育频道",棒球
 https://huyazhibo.de5.net/?id=20072763
-#EXTINF:-1 tvg-name="E1电动赛艇" tvg-logo="https://epg.112114.xyz/logo/E1电动赛艇专场.png" group-title="体育频道",E1电动赛艇
+#EXTINF:-1 tvg-name="E1电动赛艇" tvg-logo="https://epg.112114.xyz/logo/E1%E7%94%B5%E5%8A%A8%E8%B5%9B%E8%89%87%E4%B8%93%E5%9C%BA.png" group-title="体育频道",E1电动赛艇
 https://huyazhibo.de5.net/?id=30805936
-#EXTINF:-1 tvg-name="帆船" tvg-logo="https://epg.112114.xyz/logo/帆船专场.png" group-title="体育频道",帆船
+#EXTINF:-1 tvg-name="帆船" tvg-logo="https://epg.112114.xyz/logo/%E5%B8%86%E8%88%B9%E4%B8%93%E5%9C%BA.png" group-title="体育频道",帆船
 https://huyazhibo.de5.net/?id=30805961
-#EXTINF:-1 tvg-name="飞盘" tvg-logo="https://epg.112114.xyz/logo/飞盘专场.png" group-title="体育频道",飞盘
+#EXTINF:-1 tvg-name="飞盘" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E7%9B%98%E4%B8%93%E5%9C%BA.png" group-title="体育频道",飞盘
 https://huyazhibo.de5.net/?id=30689549
-#EXTINF:-1 tvg-name="格斗" tvg-logo="https://epg.112114.xyz/logo/格斗专场.png" group-title="体育频道",格斗
+#EXTINF:-1 tvg-name="格斗" tvg-logo="https://epg.112114.xyz/logo/%E6%A0%BC%E6%96%97%E4%B8%93%E5%9C%BA.png" group-title="体育频道",格斗
 https://huyazhibo.de5.net/?id=20072796
-#EXTINF:-1 tvg-name="健美" tvg-logo="https://epg.112114.xyz/logo/健美专场.png" group-title="体育频道",健美
+#EXTINF:-1 tvg-name="健美" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E7%BE%8E%E4%B8%93%E5%9C%BA.png" group-title="体育频道",健美
 https://huyazhibo.de5.net/?id=23244436
-#EXTINF:-1 tvg-name="健身" tvg-logo="https://epg.112114.xyz/logo/健身专场.png" group-title="体育频道",健身
+#EXTINF:-1 tvg-name="健身" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E8%BA%AB%E4%B8%93%E5%9C%BA.png" group-title="体育频道",健身
 https://huyazhibo.de5.net/?id=24354754
-#EXTINF:-1 tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球专场.png" group-title="体育频道",篮球
+#EXTINF:-1 tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/%E7%AF%AE%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="体育频道",篮球
 https://huyazhibo.de5.net/?id=27949551
-#EXTINF:-1 tvg-name="路人王" tvg-logo="https://epg.112114.xyz/logo/路人王专场.png" group-title="体育频道",路人王
+#EXTINF:-1 tvg-name="路人王" tvg-logo="https://epg.112114.xyz/logo/%E8%B7%AF%E4%BA%BA%E7%8E%8B%E4%B8%93%E5%9C%BA.png" group-title="体育频道",路人王
 https://huyazhibo.de5.net/?id=14346993
-#EXTINF:-1 tvg-name="摩托" tvg-logo="https://epg.112114.xyz/logo/摩托专场.png" group-title="体育频道",摩托
+#EXTINF:-1 tvg-name="摩托" tvg-logo="https://epg.112114.xyz/logo/%E6%91%A9%E6%89%98%E4%B8%93%E5%9C%BA.png" group-title="体育频道",摩托
 https://huyazhibo.de5.net/?id=19197407
-#EXTINF:-1 tvg-name="乒乓球" tvg-logo="https://epg.112114.xyz/logo/乒乓球专场.png" group-title="体育频道",乒乓球
+#EXTINF:-1 tvg-name="乒乓球" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="体育频道",乒乓球
 https://huyazhibo.de5.net/?id=23505696
-#EXTINF:-1 tvg-name="拳击" tvg-logo="https://epg.112114.xyz/logo/拳击专场.png" group-title="体育频道",拳击
+#EXTINF:-1 tvg-name="拳击" tvg-logo="https://epg.112114.xyz/logo/%E6%8B%B3%E5%87%BB%E4%B8%93%E5%9C%BA.png" group-title="体育频道",拳击
 https://huyazhibo.de5.net/?id=18152380
-#EXTINF:-1 tvg-name="柔道" tvg-logo="https://epg.112114.xyz/logo/柔道专场.png" group-title="体育频道",柔道
+#EXTINF:-1 tvg-name="柔道" tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E9%81%93%E4%B8%93%E5%9C%BA.png" group-title="体育频道",柔道
 https://huyazhibo.de5.net/?id=20072837
-#EXTINF:-1 tvg-name="赛车" tvg-logo="https://epg.112114.xyz/logo/赛车专场.png" group-title="体育频道",赛车
+#EXTINF:-1 tvg-name="赛车" tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E8%BD%A6%E4%B8%93%E5%9C%BA.png" group-title="体育频道",赛车
 https://huyazhibo.de5.net/?id=18152482
-#EXTINF:-1 tvg-name="扇耳光" tvg-logo="https://epg.112114.xyz/logo/扇耳光专场.png" group-title="体育频道",扇耳光
+#EXTINF:-1 tvg-name="扇耳光" tvg-logo="https://epg.112114.xyz/logo/%E6%89%87%E8%80%B3%E5%85%89%E4%B8%93%E5%9C%BA.png" group-title="体育频道",扇耳光
 https://huyazhibo.de5.net/?id=30631765
-#EXTINF:-1 tvg-name="摔跤" tvg-logo="https://epg.112114.xyz/logo/摔跤专场.png" group-title="体育频道",摔跤
+#EXTINF:-1 tvg-name="摔跤" tvg-logo="https://epg.112114.xyz/logo/%E6%91%94%E8%B7%A4%E4%B8%93%E5%9C%BA.png" group-title="体育频道",摔跤
 https://huyazhibo.de5.net/?id=20072812
-#EXTINF:-1 tvg-name="斯诺克" tvg-logo="https://epg.112114.xyz/logo/斯诺克专场.png" group-title="体育频道",斯诺克
+#EXTINF:-1 tvg-name="斯诺克" tvg-logo="https://epg.112114.xyz/logo/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%93%E5%9C%BA.png" group-title="体育频道",斯诺克
 https://huyazhibo.de5.net/?id=880214
-#EXTINF:-1 tvg-name="铁人三项" tvg-logo="https://epg.112114.xyz/logo/铁人三项专场.png" group-title="体育频道",铁人三项
+#EXTINF:-1 tvg-name="铁人三项" tvg-logo="https://epg.112114.xyz/logo/%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9%E4%B8%93%E5%9C%BA.png" group-title="体育频道",铁人三项
 https://huyazhibo.de5.net/?id=30805963
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://epg.112114.xyz/logo/WWE专场.png" group-title="体育频道",WWE
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://upload.112114.xyz/logo/WWE.png" group-title="体育频道",WWE
 https://huyazhibo.de5.net/?id=30021023
-#EXTINF:-1 tvg-name="WWE专场" tvg-logo="https://epg.112114.xyz/logo/WWE专场.png" group-title="体育频道",WWE专场
+#EXTINF:-1 tvg-name="WWE专场" tvg-logo="https://upload.112114.xyz/logo/WWE.png" group-title="体育频道",WWE专场
 https://huyazhibo.de5.net/?id=30021023
-#EXTINF:-1 tvg-name="羽毛球" tvg-logo="https://epg.112114.xyz/logo/羽毛球专场.png" group-title="体育频道",羽毛球
+#EXTINF:-1 tvg-name="羽毛球" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="体育频道",羽毛球
 https://huyazhibo.de5.net/?id=30806115
-#EXTINF:-1 tvg-name="越野" tvg-logo="https://epg.112114.xyz/logo/越野专场.png" group-title="体育频道",越野
+#EXTINF:-1 tvg-name="越野" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E9%87%8E%E4%B8%93%E5%9C%BA.png" group-title="体育频道",越野
 https://huyazhibo.de5.net/?id=30020978
-#EXTINF:-1 tvg-name="瑜伽" tvg-logo="https://epg.112114.xyz/logo/瑜伽专场.png" group-title="体育频道",瑜伽
+#EXTINF:-1 tvg-name="瑜伽" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9C%E4%BC%BD%E4%B8%93%E5%9C%BA.png" group-title="体育频道",瑜伽
 https://huyazhibo.de5.net/?id=20753449
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://upload.112114.xyz/logo/IPTV%E8%B6%B3%E7%90%831.png" group-title="体育频道",足球
 https://huyazhibo.de5.net/?id=19197411
-#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" tvg-logo="https://epg.112114.xyz/logo/Banijay Mr Bean Animé.png" group-title="少儿节目",Banijay Mr Bean Animé
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-name="Box Kids TV" tvg-logo="https://epg.112114.xyz/logo/Box Kids TV.png" group-title="少儿节目",Box Kids TV
+#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" tvg-logo="https://epg.112114.xyz/logo/Banijay%20Mr%20Bean%20Anim%C3%A9.png" group-title="少儿节目",Banijay Mr Bean Animé
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
-#EXTINF:-1 tvg-name="Camp Spoopy" tvg-logo="https://epg.112114.xyz/logo/Camp Spoopy.png" group-title="少儿节目",Camp Spoopy
+#EXTINF:-1 tvg-name="Camp Spoopy" tvg-logo="https://epg.112114.xyz/logo/Camp%20Spoopy.png" group-title="少儿节目",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 tvg-name="茶啊二中" tvg-logo="https://epg.112114.xyz/logo/茶啊二中.png" group-title="少儿节目",茶啊二中
-http://live.nctv.top/douyu1.php?id=2925610
-#EXTINF:-1 tvg-name="Disney Jr. Latin America South" tvg-logo="https://epg.112114.xyz/logo/Disney Jr. Latin America South.png" group-title="少儿节目",Disney Jr. Latin America South
+#EXTINF:-1 tvg-name="Disney Jr. Latin America South" tvg-logo="https://epg.112114.xyz/logo/Disney%20Jr.%20Latin%20America%20South.png" group-title="少儿节目",Disney Jr. Latin America South
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-name="迪士尼频道" group-title="少儿节目",迪士尼频道
+#EXTINF:-1 tvg-name="迪士尼频道" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="少儿节目",迪士尼频道
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-name="FunBox" tvg-logo="https://epg.112114.xyz/logo/FunBox.png" group-title="少儿节目",FunBox
 http://186.148.196.100:8000/play/a00d
-#EXTINF:-1 tvg-name="愤怒的小鸟" tvg-logo="https://epg.112114.xyz/logo/愤怒的小鸟.png" group-title="少儿节目",愤怒的小鸟
-https://huyazhibo.de5.net/?id=22487821
-#EXTINF:-1 tvg-name="Giggle Mug" tvg-logo="https://epg.112114.xyz/logo/Giggle Mug.png" group-title="少儿节目",Giggle Mug
+#EXTINF:-1 tvg-name="Giggle Mug" tvg-logo="https://epg.112114.xyz/logo/Giggle%20Mug.png" group-title="少儿节目",Giggle Mug
 https://tvsen6.aynaott.com/ytv/index.m3u8
 #EXTINF:-1 tvg-name="Gloobinho" tvg-logo="https://epg.112114.xyz/logo/Gloobinho.png" group-title="少儿节目",Gloobinho
 http://177.52.24.163/GLOOBINHO-HD/index.m3u8
-#EXTINF:-1 tvg-name="Groovia Kids" tvg-logo="https://epg.112114.xyz/logo/Groovia Kids.png" group-title="少儿节目",Groovia Kids
+#EXTINF:-1 tvg-name="Groovia Kids" tvg-logo="https://epg.112114.xyz/logo/Groovia%20Kids.png" group-title="少儿节目",Groovia Kids
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 tvg-name="Hop!" tvg-logo="https://epg.112114.xyz/logo/Hop!.png" group-title="少儿节目",Hop!
 http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 tvg-name="Kapitan Fantastika" tvg-logo="https://epg.112114.xyz/logo/Kapitan Fantastika.png" group-title="少儿节目",Kapitan Fantastika
+#EXTINF:-1 tvg-name="Kapitan Fantastika" tvg-logo="https://epg.112114.xyz/logo/Kapitan%20Fantastika.png" group-title="少儿节目",Kapitan Fantastika
 http://stream.mcquack.net/144/index.m3u8
-#EXTINF:-1 tvg-name="Kartoon Channel" tvg-logo="https://epg.112114.xyz/logo/Kartoon Channel.png" group-title="少儿节目",Kartoon Channel
+#EXTINF:-1 tvg-name="Kartoon Channel" tvg-logo="https://epg.112114.xyz/logo/Kartoon%20Channel.png" group-title="少儿节目",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="KidsFlix" tvg-logo="https://epg.112114.xyz/logo/KidsFlix.png" group-title="少儿节目",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -304,19 +298,19 @@ https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-name="KinoKazka" tvg-logo="https://epg.112114.xyz/logo/KinoKazka.png" group-title="少儿节目",KinoKazka
 http://stream.mcquack.net/167/index.m3u8
-#EXTINF:-1 tvg-name="开心锤锤动漫" tvg-logo="https://epg.112114.xyz/logo/开心锤锤动漫.png" group-title="少儿节目",开心锤锤动漫
+#EXTINF:-1 tvg-name="开心锤锤动漫" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%80%E5%BF%83%E9%94%A4%E9%94%A4%E5%8A%A8%E6%BC%AB.png" group-title="少儿节目",开心锤锤动漫
 http://live.nctv.top/douyu1.php?id=9018297
 #EXTINF:-1 tvg-name="Mama" tvg-logo="https://epg.112114.xyz/logo/Mama.png" group-title="少儿节目",Mama
 http://stream.mcquack.net/79/index.m3u8
-#EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://epg.112114.xyz/logo/Minika Cocuk.png" group-title="少儿节目",Minika Cocuk
+#EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://epg.112114.xyz/logo/Minika%20Cocuk.png" group-title="少儿节目",Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-name="Minika Go" tvg-logo="https://epg.112114.xyz/logo/Minika Go.png" group-title="少儿节目",Minika Go
+#EXTINF:-1 tvg-name="Minika Go" tvg-logo="https://epg.112114.xyz/logo/Minika%20Go.png" group-title="少儿节目",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-name="Moonbug Kids" tvg-logo="https://epg.112114.xyz/logo/Moonbug Kids.png" group-title="少儿节目",Moonbug Kids
+#EXTINF:-1 tvg-name="Moonbug Kids" tvg-logo="https://epg.112114.xyz/logo/Moonbug%20Kids.png" group-title="少儿节目",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" tvg-logo="https://epg.112114.xyz/logo/Mr. Bean Anime Italy.png" group-title="少儿节目",Mr. Bean Anime Italy
+#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" tvg-logo="https://epg.112114.xyz/logo/Mr.%20Bean%20Anime%20Italy.png" group-title="少儿节目",Mr. Bean Anime Italy
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" tvg-logo="https://epg.112114.xyz/logo/Mr. Bean Anime Spain.png" group-title="少儿节目",Mr. Bean Anime Spain
+#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" tvg-logo="https://epg.112114.xyz/logo/Mr.%20Bean%20Anime%20Spain.png" group-title="少儿节目",Mr. Bean Anime Spain
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.112114.xyz/logo/Nickelodeon.png" group-title="少儿节目",Nickelodeon①
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
@@ -324,27 +318,27 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.112114.xyz/logo/Nickelodeon.png" group-title="少儿节目",Nickelodeon③
 http://213.91.179.28:8000/play/a056
-#EXTINF:-1 tvg-name="Nickelodeon CIS" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon CIS.png" group-title="少儿节目",Nickelodeon CIS
+#EXTINF:-1 tvg-name="Nickelodeon CIS" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon%20CIS.png" group-title="少儿节目",Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://epg.112114.xyz/logo/Nick Jr.png" group-title="少儿节目",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://epg.112114.xyz/logo/Nick%20Jr.png" group-title="少儿节目",Nick Jr
 https://stream8.cinerama.uz/1501/playlist.m3u8
-#EXTINF:-1 tvg-name="NickToons Brasil" tvg-logo="https://epg.112114.xyz/logo/NickToons Brasil.png" group-title="少儿节目",NickToons Brasil
+#EXTINF:-1 tvg-name="NickToons Brasil" tvg-logo="https://epg.112114.xyz/logo/NickToons%20Brasil.png" group-title="少儿节目",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-name="Nicktoons CIS" tvg-logo="https://epg.112114.xyz/logo/Nicktoons CIS.png" group-title="少儿节目",Nicktoons CIS
+#EXTINF:-1 tvg-name="Nicktoons CIS" tvg-logo="https://epg.112114.xyz/logo/Nicktoons%20CIS.png" group-title="少儿节目",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-name="O!" tvg-logo="https://epg.112114.xyz/logo/O!.png" group-title="少儿节目",O!
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://epg.112114.xyz/logo/PBS Kids.png" group-title="少儿节目",PBS Kids
+#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://epg.112114.xyz/logo/PBS%20Kids.png" group-title="少儿节目",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-name="PBS Kids Alaska" tvg-logo="https://epg.112114.xyz/logo/PBS Kids Alaska.png" group-title="少儿节目",PBS Kids Alaska
+#EXTINF:-1 tvg-name="PBS Kids Alaska" tvg-logo="https://epg.112114.xyz/logo/PBS%20Kids%20Alaska.png" group-title="少儿节目",PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-name="PBS Kids Hawaii" tvg-logo="https://epg.112114.xyz/logo/PBS Kids Hawaii.png" group-title="少儿节目",PBS Kids Hawaii
+#EXTINF:-1 tvg-name="PBS Kids Hawaii" tvg-logo="https://epg.112114.xyz/logo/PBS%20Kids%20Hawaii.png" group-title="少儿节目",PBS Kids Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-name="PBS Kids Mountain" tvg-logo="https://epg.112114.xyz/logo/PBS Kids Mountain.png" group-title="少儿节目",PBS Kids Mountain
+#EXTINF:-1 tvg-name="PBS Kids Mountain" tvg-logo="https://epg.112114.xyz/logo/PBS%20Kids%20Mountain.png" group-title="少儿节目",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-name="PBS Kids Pacific" tvg-logo="https://epg.112114.xyz/logo/PBS Kids Pacific.png" group-title="少儿节目",PBS Kids Pacific
+#EXTINF:-1 tvg-name="PBS Kids Pacific" tvg-logo="https://epg.112114.xyz/logo/PBS%20Kids%20Pacific.png" group-title="少儿节目",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-name="Persiana Junior" tvg-logo="https://epg.112114.xyz/logo/Persiana Junior.png" group-title="少儿节目",Persiana Junior
+#EXTINF:-1 tvg-name="Persiana Junior" tvg-logo="https://epg.112114.xyz/logo/Persiana%20Junior.png" group-title="少儿节目",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="PLUSPLUS" tvg-logo="https://epg.112114.xyz/logo/PLUSPLUS.png" group-title="少儿节目",PLUSPLUS
 http://stream.mcquack.net/339/index.m3u8
@@ -352,51 +346,48 @@ http://stream.mcquack.net/339/index.m3u8
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-name="Ryzhiy" tvg-logo="https://epg.112114.xyz/logo/Ryzhiy.png" group-title="少儿节目",Ryzhiy
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sat 7 Kids" tvg-logo="https://epg.112114.xyz/logo/Sat 7 Kids.png" group-title="少儿节目",Sat 7 Kids
+#EXTINF:-1 tvg-name="Sat 7 Kids" tvg-logo="https://epg.112114.xyz/logo/Sat%207%20Kids.png" group-title="少儿节目",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="SKWAD" tvg-logo="https://epg.112114.xyz/logo/SKWAD.png" group-title="少儿节目",SKWAD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 tvg-name="Spacetoon Arabic" tvg-logo="https://epg.112114.xyz/logo/Spacetoon Arabic.png" group-title="少儿节目",Spacetoon Arabic
+#EXTINF:-1 tvg-name="Spacetoon Arabic" tvg-logo="https://epg.112114.xyz/logo/Spacetoon%20Arabic.png" group-title="少儿节目",Spacetoon Arabic
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
-#EXTINF:-1 tvg-name="Taha TV" tvg-logo="https://epg.112114.xyz/logo/Taha TV.png" group-title="少儿节目",Taha TV
+#EXTINF:-1 tvg-name="Taha TV" tvg-logo="https://epg.112114.xyz/logo/Taha%20TV.png" group-title="少儿节目",Taha TV
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-name="Teletubbies" tvg-logo="https://epg.112114.xyz/logo/Teletubbies.png" group-title="少儿节目",Teletubbies
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-name="The LEGO Channel" tvg-logo="https://epg.112114.xyz/logo/The LEGO Channel.png" group-title="少儿节目",The LEGO Channel
+#EXTINF:-1 tvg-name="The LEGO Channel" tvg-logo="https://epg.112114.xyz/logo/The%20LEGO%20Channel.png" group-title="少儿节目",The LEGO Channel
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-name="Tooku" tvg-logo="https://epg.112114.xyz/logo/Tooku.png" group-title="少儿节目",Tooku
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-name="ToonGoggles" tvg-logo="https://epg.112114.xyz/logo/ToonGoggles.png" group-title="少儿节目",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="Toon Goggles Junior" tvg-logo="https://epg.112114.xyz/logo/Toon Goggles Junior.png" group-title="少儿节目",Toon Goggles Junior
+#EXTINF:-1 tvg-name="Toon Goggles Junior" tvg-logo="https://epg.112114.xyz/logo/Toon%20Goggles%20Junior.png" group-title="少儿节目",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://epg.112114.xyz/logo/TRT Diyanet Çocuk.png" group-title="少儿节目",TRT Diyanet Çocuk
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://epg.112114.xyz/logo/TRT%20Diyanet%20%C3%87ocuk.png" group-title="少儿节目",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TV Bahoriston" tvg-logo="https://epg.112114.xyz/logo/TV Bahoriston.png" group-title="少儿节目",TV Bahoriston
+#EXTINF:-1 tvg-name="TV Bahoriston" tvg-logo="https://epg.112114.xyz/logo/TV%20Bahoriston.png" group-title="少儿节目",TV Bahoriston
 https://live.teleradiocom.tj/3/3m.m3u8
 #EXTINF:-1 tvg-name="TVOKids" tvg-logo="https://epg.112114.xyz/logo/TVOKids.png" group-title="少儿节目",TVOKids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
-#EXTINF:-1 tvg-name="Unique TV" tvg-logo="https://epg.112114.xyz/logo/Unique TV.png" group-title="少儿节目",Unique TV
+#EXTINF:-1 tvg-name="Unique TV" tvg-logo="https://epg.112114.xyz/logo/Unique%20TV.png" group-title="少儿节目",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-#EXTINF:-1 tvg-name="我的世界" tvg-logo="https://epg.112114.xyz/logo/我的世界.png" group-title="少儿节目",我的世界
-https://huyazhibo.de5.net/?id=374579
-#EXTINF:-1 tvg-name="Xtrema Cartoons" tvg-logo="https://epg.112114.xyz/logo/Xtrema Cartoons.png" group-title="少儿节目",Xtrema Cartoons
+#EXTINF:-1 tvg-name="Xtrema Cartoons" tvg-logo="https://epg.112114.xyz/logo/Xtrema%20Cartoons.png" group-title="少儿节目",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://epg.112114.xyz/logo/喜羊羊与灰太狼.png" group-title="少儿节目",喜羊羊与灰太狼
 https://huyazhibo.de5.net/?id=23865080
-#EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://epg.112114.xyz/logo/ZB Cartoon.png" group-title="少儿节目",ZB Cartoon
+#EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://epg.112114.xyz/logo/ZB%20Cartoon.png" group-title="少儿节目",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="https://epg.112114.xyz/logo/Zoo Moo.png" group-title="少儿节目",Zoo Moo
+#EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="https://epg.112114.xyz/logo/Zoo%20Moo.png" group-title="少儿节目",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="4K视频" tvg-logo="https://epg.112114.xyz/logo/4K视频.png" group-title="音乐mv",4K视频
+#EXTINF:-1 tvg-name="4K视频" tvg-logo="https://epg.112114.xyz/logo/4K%E8%A7%86%E9%A2%91.png" group-title="音乐mv",4K视频
 http://xjj1.716888.xyz/fenlei/4k/4k.php
-#EXTINF:-1 tvg-name="DJ舞曲" tvg-logo="https://epg.112114.xyz/logo/DJ舞曲.png" group-title="音乐mv",DJ舞曲
+#EXTINF:-1 tvg-name="DJ舞曲" tvg-logo="https://epg.112114.xyz/logo/DJ%E8%88%9E%E6%9B%B2.png" group-title="音乐mv",DJ舞曲
 http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
 #EXTINF:-1 tvg-name="model" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E5%90%83%E6%A1%83%E5%AD%90%E7%9A%84%E5%96%B5.png" group-title="音乐mv",model
 https://huyazhibo.de5.net/?id=18501378
-#EXTINF:-1 tvg-name="网络热曲" tvg-logo="https://epg.112114.xyz/logo/网络热曲.png" group-title="音乐mv",网络热曲
+#EXTINF:-1 tvg-name="网络热曲" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%91%E7%BB%9C%E7%83%AD%E6%9B%B2.png" group-title="音乐mv",网络热曲
 https://188sp.711888.xyz/188/video.php
-#EXTINF:-1 tvg-name="K-cup" group-title="私密频道",K-cup
+#EXTINF:-1 tvg-name="K-cup" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%861%E5%8F%B01.png" group-title="私密频道",K-cup
 https://t33.cdn2020.com/video/m3u8/2024/08/09/48bf65dd/index.m3u8
-#EXTINF:-1 tvg-name="总裁" group-title="私密频道",总裁
+#EXTINF:-1 tvg-name="总裁" tvg-logo="https://upload.112114.xyz/logo/%E6%9D%BE%E8%A7%862%E5%8F%B01.png" group-title="私密频道",总裁
 https://t33.cdn2020.com/video/m3u8/2024/07/04/bdc91dbc/index.m3u8
