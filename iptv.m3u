@@ -384,3 +384,19 @@ https://188sp.711888.xyz/188/video.php
 https://t33.cdn2020.com/video/m3u8/2024/08/09/48bf65dd/index.m3u8
 #EXTINF:-1 tvg-name="总裁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/彩虹K台1.png" group-title="私密频道",总裁
 https://t33.cdn2020.com/video/m3u8/2024/07/04/bdc91dbc/index.m3u8
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/香蕉频台1.png" group-title="私密频道",香蕉
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 tvg-name="松视1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/松视1台1.png" group-title="私密频道",松视1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松视2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/松视2台1.png" group-title="私密频道",松视2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松视3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/松视3台1.png" group-title="私密频道",松视3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/惊艳台1.png" group-title="私密频道",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/潘多拉完美台1.png" group-title="私密频道",潘多拉
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/彩虹E台1.png" group-title="私密频道",彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 tvg-name="完美台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/orange4587/iptv/main/logo/潘多拉完美台1.png" group-title="私密频道",完美台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
