@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gh-proxy.com/https://github.com/sggc/SD-EPG/raw/main/EPG/sggc.xml.gz" x-tvg-url="https://gh-proxy.com/https://github.com/sggc/SD-EPG/raw/main/EPG/sggc.xml.gz"
+#EXTM3U url-tvg="https://gh-proxy.com/https://github.org/sggc/SD-EPG/raw/main/EPG/sggc.xml.gz" x-tvg-url="https://gh-proxy.org/https://github.com/sggc/SD-EPG/raw/main/EPG/sggc.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV1.png" group-title="央视频道",CCTV-1
 http://114.250.20.79:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV1.png" group-title="央视频道",CCTV-1
